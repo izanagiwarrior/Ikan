@@ -11,17 +11,6 @@ body {
     background: #111;
 }
 
-#clock {
-    width: 100%;
-    position: absolute;
-    font-size: 60px;
-    color: white;
-    font-family: 'Roboto-Medium', sans-serif;
-    top: 100px;
-    text-align: center;
-    animation: teks 5s ease;
-}
-
 h1 {
     width: 100%;
     position: absolute;
